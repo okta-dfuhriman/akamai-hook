@@ -1,0 +1,11 @@
+name = "akamai-hook"
+type = "webpack"
+
+account_id = "ca7271d81a89aa1b584684f4aea8c1a4"
+workers_dev = true
+compatibility_date = "2021-11-15"
+
+[vars]
+UPSTASH_TOKEN = "AYD7ASQgMjg1M2YxMzUtMzY2OS00MDM3LTk1NmMtNjA2YzlkNWMyOWI3ZmViMTA0YTgyOGYzNDFjYzg0MzViMjMzYTFkMmI3M2E="
+UPSTASH_ENDPOINT = "https://eu1-artistic-bass-33019.upstash.io"
+API_KEY = "01FVB9Q788M2TDDPYGDNJ17EE7"

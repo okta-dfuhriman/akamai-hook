@@ -1,3 +1,7 @@
+# Cloudflare
+worker/
+.cargo-ok
+
 # Logs
 logs
 *.log
