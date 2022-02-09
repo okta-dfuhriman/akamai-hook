@@ -6,6 +6,10 @@ workers_dev = true
 compatibility_date = "2021-11-15"
 
 [vars]
-UPSTASH_TOKEN = "AYD7ASQgMjg1M2YxMzUtMzY2OS00MDM3LTk1NmMtNjA2YzlkNWMyOWI3ZmViMTA0YTgyOGYzNDFjYzg0MzViMjMzYTFkMmI3M2E="
+# Get this value from your Upstash account.
 UPSTASH_ENDPOINT = "https://eu1-artistic-bass-33019.upstash.io"
+# This is the value Okta will provide in the `Authorization` header.
 API_KEY = "01FVB9Q788M2TDDPYGDNJ17EE7"
+
+# [secrets]
+# UPSTASH_TOKEN
